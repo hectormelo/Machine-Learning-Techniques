@@ -2,11 +2,11 @@
 Repositorio de laboratorios y talleres de la clase de MLT
 Primer Semestre - 2024
 
-# Laboratorio 1
-# Primera Sesión
+## Laboratorio 1
+### Primera Sesión
 Familiarizarse con el ambiente de trabajo Jupyter Notebook
 Resolver un problema real de regresión siguiendo el proceso de aprendizaje a partir de datos.
-# Segunda Sesión
+### Segunda Sesión
 Identificar las difentes técnicas de pre-procesamiento de datos.
 Construir Pipelines para el procesamiento y entrenamiento del modelo.
 Visualizar un modelo construido en producción.
