@@ -14,6 +14,11 @@ Visualizar un modelo construido en producción.
 ## Laboratorio 2
 ### Primera Sesión
 Analizar conjutos de datos satelitales. 
+Utilizar el algoritmo Support Vector Machine (SVM) para clasificación de imágenes.
+Entender el funcionamiento de Análisis de componentes principales (PCA)
+
+### Segunda Sesión
+Analizar conjutos de datos satelitales. 
 Utilizar el algoritmo de Random Forest para clasificación de imágenes. 
 Revisar métricas de desempeño del algoritmo Random Forest en la clasificación de imágenes satelitales. 
 
